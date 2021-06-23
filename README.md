@@ -1,1 +1,1 @@
-# Malaria Burden Reduction - data quality dashboard metadata package
+# Malaria Burden Reduction Data Quality - Dashboard metadata package
