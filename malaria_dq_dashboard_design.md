@@ -71,29 +71,55 @@ Indicators are based on the data elements included in the WHO malaria burden red
 
 For each of the indicators outlined above, visualization items have been created using tables and charts as shown below. This covers data quality analysis on completeness, timeliness and consistency of data and visualization. Color legends have also been used on pivot tables to show thresholds of performance with extremes of "red" and "green" flags to indicate low and high quality data respectively. These legends can be adapted by the country according to their own thresholds.
 
+### Chart 1: Reporting completeness
+
 ![Chart 1: Reporting completeness](resources/images/MALDQ1.png)
+
+### Table 1: Reporting completeness in public and private sector
 
 ![Table 1: Reporting completeness in public and private sector](resources/images/MALDQ2.png)
 
+### Chart 2: Reporting timeliness
+
 ![Chart 2: Reporting timeliness](resources/images/MALDQ3.png)
+
+### Table 2: Reporting timeliness in private and public sector
 
 ![Table 2: Reporting timeliness in private and public sector](resources/images/MALDQ4.png)
 
+### Table 3: Completeness of variable in actual reports
+
 ![Table 3: Completeness of variable in actual reports](resources/images/MALDQ5.png)
+
+### Table 4: Consistency between variables
 
 ![Table 4: Consistency between variables](resources/images/MALDQ6.png)
 
+### Chart 3: Proportion of outpatient malaria cases
+
 ![Chart 3: Proportion of outpatient malaria cases](resources/images/MALDQ7.png)
+
+### Chart 4: Proportion of inpatient malaria cases
 
 ![Chart 4: Proportion of inpatient malaria cases](resources/images/MALDQ8.png)
 
+### Chart 5: Proportion of inpatient deaths
+
 ![Chart 5: Proportion of inpatient deaths](resources/images/MALDQ9.png)
+
+### Chart 6: Test positivity rate
 
 ![Chart 6: Test positivity rate](resources/images/MALDQ10.png)
 
+### Chart 7: Slide positivity rate
+
 ![Chart 7: Slide positivity rate](resources/images/MALDQ11.png)
 
+### Chart 8: RDT positivity rate
+
 ![Chart 8: RDT positivity rate](resources/images/MALDQ12.png)
+
+### Chart 9: Proportion of suspected individuals tested
 
 ![Chart 9: Proportion of suspected individuals tested](resources/images/MALDQ13.png)
 
