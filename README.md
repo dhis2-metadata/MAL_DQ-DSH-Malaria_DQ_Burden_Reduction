@@ -1,1 +1,1 @@
-# MAL_DQ-DSH-Malaria_DQ_Burden_Reduction
+# Malaria Burden Reduction - data quality dashboard package
